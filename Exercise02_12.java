@@ -1,3 +1,8 @@
+//2.02 - 2/5
+// Asher Silberman
+// COMP 110/L 1100-1345
+/* The program I am submitting is my own work.   I may have had some help learning how to do  it, but ultimately, I wrote and tested this entire exercise myself. */
+/* finds how long a runway should be for a plane to take off */
 import java.util.Scanner;
 
 public class Exercise02_12 {
@@ -24,3 +29,21 @@ public class Exercise02_12 {
 		System.out.print("The minimum runway length for this airplane is " + length + " meters.");
 
 }}
+/*https://github.com/Asherehsa/Projects/blob/master/Exercise02_12.java
+ ▄▄▄▄▄▄▄  ▄    ▄  ▄▄▄▄▄ ▄  ▄▄▄▄▄▄▄
+ █ ▄▄▄ █ ▀█▄█▀▀ █   ▄██▄▄▄ █ ▄▄▄ █
+ █ ███ █ ▀▀▄▀▄▄█▀▀▀▄█   ▄  █ ███ █
+ █▄▄▄▄▄█ █ █ ▄▀█▀█ █ ▄ █ █ █▄▄▄▄▄█
+ ▄▄▄▄▄ ▄▄▄▄▄ █▄▀█▀▄ ▀ ██▄█▄ ▄ ▄ ▄ 
+ ▄ █ █▀▄▄██ ▄▄ ▀▄█▄▄▀██▀▀  ▀▄▄▄▀█▀
+ █▄ ▀▀█▄▄ █▀█ ▄▀▄▄▄ █▀▀▄ ▄█▀▄█▄▀  
+ █  █  ▄ ▄▀▀ ▀▄▀▄█  ▀▀▀▀▀▄▄██▄  █▀
+ ▄██▀▄▄▄▀█▀▀ █▄ ▀ ▄▀▄▀▀▄▀▀█▀█▄ ▀▄ 
+ █ ▄▄ █▄▄▄▄▄▄▄█▄▄█ ▀▀▀ ▄▀ ▄█  █ █▀
+ ▄▀▀█▀█▄▀▀█▄█ ▄▄▄ ▄ ▀ ▀█ ▄▀  ▄ ▀▄ 
+ █▀ █ █▄ ▄▄▀ ▀█ ▄▀▄▄▀█  ▀▄▄█▄ █ █▀
+ █ ▄ ▄█▄▀██▄ █▄▄▄▄▄██▀▀▄▄█████▀▀ ▄
+ ▄▄▄▄▄▄▄ █▀▀▄▄  ▄██▀▀▄█▄▄█ ▄ ██▀▄▀
+ █ ▄▄▄ █ ▄  █▄▄██▀  ▀▄▀█▀█▄▄▄█▀▀▄ 
+ █ ███ █ █▀▄ ▀▄█▄▀ ▀▀▀▀ ▀▄▀ ▀▀▄▄▄ 
+ █▄▄▄▄▄█ █▀█ █▄▄▀▄▄  █▀██▄▄ ▀ █▀▄ */

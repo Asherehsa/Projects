@@ -1,4 +1,4 @@
-//2.02 - 1/28
+//2.02 - 2/5
 // Asher Silberman
 // COMP 110/L 1100-1345
 /* The program I am submitting is my own work.   I may have had some help learning how to do  it, but ultimately, I wrote and tested this entire exercise myself. */
@@ -28,3 +28,21 @@ public class Exercise02_02 {
 		volume = area * length;
 		System.out.println(volume);
 }}
+/*https://github.com/Asherehsa/Projects/blob/master/Exercise02_02.java
+ ▄▄▄▄▄▄▄ ▄▄▄▄ ▄  ▄ ▄  ▄▄   ▄▄▄▄▄▄▄
+ █ ▄▄▄ █  ▄ █▀▄▀▄▄  ▀▄▄ ▄▄ █ ▄▄▄ █
+ █ ███ █   ██▄▄   █▄██▀▀   █ ███ █
+ █▄▄▄▄▄█ ▄▀▄▀▄▀█ ▄▀█ ▄▀▄▀█ █▄▄▄▄▄█
+ ▄▄ ▄▄ ▄ ▀█  █▀ ▄█▄ ▄▀▄▀▄█ ▄     ▄
+ ▄ █▀▀▄▄█▀▄▀ ▄ ▄█▄ ▄▀ ▄ █  ▄██ ▀█▄
+ ▄▀█ █ ▄ ▄▄▄   ▄█▀▀ ▀█ ▀█▄▀██ ▀▀▄▄
+ ▀▄▄▄▄▀▄█ ▄█ ▀▀ █▀  ▄  █▀▄▀▄▄     
+  ▄█▄▀█▄ █ █▄█▄█ ▀ ▀▄▄ ██▀█▄▄█▄▀▄█
+ █▀  ▀ ▄▄ █▀▀▄▀ █ █▀██▀▀▄  ▀▀█  ▀█
+  ▄▀██▀▄  ▄▄█ ▀██▄▄ ▄▀ ▀ ▄▄▀▀  ▀▀▀
+ █▀  █▄▄▄█▀▄▄▀███  ▄▀ ▀▀█▄▄ █▀▀ █▄
+ █▄ ▄ ▄▄▀▄▀▄██  █▀▀█▀█ ▀▀███▄▄▄▀▄ 
+ ▄▄▄▄▄▄▄ ▀▄▄▄▄█▀█▀█▀▄█▄ ▄█ ▄ ██▀▀ 
+ █ ▄▄▄ █ ▄ █▀▄▄ ▄ ▄ ▀▀ ▄██▄▄▄██▀▄█
+ █ ███ █ ▀▄██▀ ▀█▄█▀██ █▄▄█▄ ▄▀▄ ▄
+ █▄▄▄▄▄█ █ ▀ █▀█  ▄ █▄ ▀█▄▀▀ ▄█▀▀▀*/

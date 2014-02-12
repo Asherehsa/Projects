@@ -1,3 +1,8 @@
+//2.17 - 2/9
+// Asher Silberman
+// COMP 110/L 1100-1345
+/* The program I am submitting is my own work.   I may have had some help learning how to do  it, but ultimately, I wrote and tested this entire exercise myself. */
+/* Finds wind chill index given wind speed and temp */
 import java.util.Scanner;
 
 public class Exercise02_17 {
@@ -24,3 +29,21 @@ public class Exercise02_17 {
 		System.out.print("The wind chill index is " + wc);
 
 }}
+/*https://github.com/Asherehsa/Projects/blob/master/Exercise02_17.java
+ ▄▄▄▄▄▄▄  ▄    ▄  ▄▄▄▄▄ ▄  ▄▄▄▄▄▄▄
+ █ ▄▄▄ █ ▀█▄█▀▀ █   ▄██▄▄▄ █ ▄▄▄ █
+ █ ███ █ ▀▀▄▀▄▄█▀▀▀▄█   ▄  █ ███ █
+ █▄▄▄▄▄█ █ █ ▄▀█▀█ █ ▄ █ █ █▄▄▄▄▄█
+ ▄▄▄▄▄ ▄▄▄▄▄ █▄▀█▀▄ ▀ ██▄█▄ ▄ ▄ ▄ 
+  ▀ ▄▀ ▄█ █ ▄▄ ▀▄█▄▄▀██▀▀  ▀▄▄▄▀█▀
+ ██  ██▄ ▀█▀█ ▄▀▄▄▄ █▀▀▄ ▄█▀▄█▄▀  
+ ▄▄█▄▄█▄ ▀ ▀ ▀▄█▄█  ▀▀▀▀▀▄▄██▄  █▀
+ ▀▀▀ █▀▄██▄█ █▄▀▀ ▄▀▄▀▀▄▀▀█▀█▄ ▀▄ 
+ ▀▀▄██▀▄▄▄▀▄▄▄█▄▄█ ▀▀▀ ▄▀ ▄█  █ █▀
+  ▀ ▀██▄ █▄▄█ ▄▄▄ ▄ ▀ ▀█ ▄▀  ▄ ▀▄ 
+ █ ▀ ██▄ ▄██ ▀█ ▄▀▄▄▀█  ▀▄▄█▄ █ █▀
+ █ ▄▄ █▄▀▄▀  █▄▄▄▄▄██▀▀▄▄█████▀▀ ▄
+ ▄▄▄▄▄▄▄ █▄█▄▄  ▄██▀▀▄█▄▄█ ▄ ██▀▄▀
+ █ ▄▄▄ █ ▄▄▄█▄▄██▀  ▀▄▀█▀█▄▄▄█▀▀▄ 
+ █ ███ █ █▀▄ ▀▄█▄▀ ▀▀▀▀ ▀▄▀ ▀▀▄▄▄ 
+ █▄▄▄▄▄█ █▀▄ █▄▄▀▄▄  █▀██▄▄ ▀ █▀▄ */

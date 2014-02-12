@@ -1,3 +1,9 @@
+//2.19 - 2/9
+// Asher Silberman
+// COMP 110/L 1100-1345
+/* The program I am submitting is my own work.   I may have had some help learning how to do  it, but ultimately, I wrote and tested this entire exercise myself. */
+/* finds area of a triangle given 3 points */
+
 import java.util.Scanner;
 
 public class Exercise02_19 {
@@ -7,12 +13,11 @@ public class Exercise02_19 {
 		//Declare Variables
 		double pts[]=new double[6];
 		double side1, side2, side3, s, area;
-	   //a = outside temp, v = speed, wc = wind chill temp
 		//Create Scanner
 		Scanner input = new Scanner(System.in);
 		
 		//Read in values
-		System.out.print("Enter 3 pts for a triangle:");
+		System.out.print("Enter 3 ordered pairs for a triangle:");
 for(int i=0;i<pts.length;i++){
 		pts[i] = input.nextDouble();
 }
@@ -29,3 +34,21 @@ for(int i=0;i<pts.length;i++){
 		//Display Results
 		System.out.print("Side 1, 2, 3, s then area! " + side1 + " " + side2 + " " + side3 + " " + s + " " + area);
 }}
+/*https://github.com/Asherehsa/Projects/blob/master/Exercise02_19.java
+ ▄▄▄▄▄▄▄  ▄▄▄ ▄  ▄ ▄  ▄▄   ▄▄▄▄▄▄▄
+ █ ▄▄▄ █  ▄▄█▀▀ ▄   ▄█▄▄▄▄ █ ▄▄▄ █
+ █ ███ █ █ █▀▄▄▄  ▀▄█▀▀▀▄  █ ███ █
+ █▄▄▄▄▄█ ▄▀█ ▄▀█ █ █ ▄▀█ █ █▄▄▄▄▄█
+ ▄▄   ▄▄▄ █▄ █▄▀▄▀▄ ▀ ▄█▄█   ▄▄   
+ █▀█▀▀█▄ ▄▄▀▄▄  █▄▄▄▀▄▄ ▀   ██▄▀█ 
+  ▀▄  ▀▄▄▄▄█▀  ██   ▀█  ▄▄▀██▀ ▀▄▄
+ ████ █▄▄▄▀█ ▀▀▀██  ▀▀ ▀▀▄▄█▄▄  █▀
+ ▀█▀█▀ ▄▀▀▀█ █▄  ▀▄▀▄  █▀▀█ ▄█ ▀▄▀
+  ▀▀ ▄▀▄▄▄▀  ▄▀ █▀▄▀██▀ █  ▀▀▄▀ ▀█
+ ▀▀▄▄ ▄▄▀██▀█ ▄▄█ ▄ ▀  █ ▄▀ ▀▄ ▀▄ 
+ █ ▄▀ █▄▀    ▀█▀█ ▄▄▀▄▀▀▀▄▄▄█▀█ █ 
+ █▄▄▄██▄▀▀▀▄▄█  █  █▀█   ███▄██▀▄ 
+ ▄▄▄▄▄▄▄ ██ ▄▄  ███▀▀▄▄▄▄█ ▄ ██▀▄▀
+ █ ▄▄▄ █ ▀█▄█▄▄▄▄   ▀█ ▄▀█▄▄▄█▀▀▄▀
+ █ ███ █  ▀ ▄▀ ▀██▄▀██ ▄█▄█▄ █ ▄ ▄
+ █▄▄▄▄▄█ █▄█ █▄▄ ▄▄  █ ██▄▄   █▀▄ */
