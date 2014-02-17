@@ -18,13 +18,21 @@ public class Exercise03_14  {
 		Scanner input = new Scanner(System.in);
 		//Read in values
 		System.out.print("guess heads or tales:");
-//		guess = input.nextLine();
+		guess = input.nextLine();
       ran = Math.random() < 0.5;
-      System.out.print("answer " + ran);
-switch (guess) {
-case "heads":
-break;
-case "head":
-case "Heads":
-case "Head"
+if (guess.compareToIgnoreCase("heads")==0){
+   if (ran == true)
+   System.out.print("Yep, the coin was heads");
+   else
+   System.out.print("No, the coin was tails");
+}
+else if (guess.compareToIgnoreCase("tails")==0){
+   if (ran == false)
+   System.out.print("Yep, the coin was tails");
+   else
+   System.out.print("No, the coin was heads");
+}
+else{
+System.out.print("You failed to type heads or tails");
+}
   }}
