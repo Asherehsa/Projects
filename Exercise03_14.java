@@ -21,16 +21,10 @@ public class Exercise03_14  {
 		guess = input.nextLine();
       ran = Math.random() < 0.5;
 if (guess.compareToIgnoreCase("heads")==0){
-   if (ran == true)
-   System.out.print("Yep, the coin was heads");
-   else
-   System.out.print("No, the coin was tails");
+   System.out.print((ran=true) ? "the coin was heads, you were right!"  :  "The coin was tails, you were wrong D:");
 }
 else if (guess.compareToIgnoreCase("tails")==0){
-   if (ran == false)
-   System.out.print("Yep, the coin was tails");
-   else
-   System.out.print("No, the coin was heads");
+   System.out.print((ran=false) ? "the coin was tails, you were right!"  :  "The coin was heads, you were wrong D:");
 }
 else{
 System.out.print("You failed to type heads or tails");
