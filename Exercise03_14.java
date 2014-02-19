@@ -13,13 +13,14 @@ public class Exercise03_14  {
 					
 		//Declare Variables
 		String guess;
-      boolean ran;
+     boolean ran;
+	 ran = Math.random() < 0.5;
+	 System.out.println(ran + " true = heads");
 		//Create Scanner
 		Scanner input = new Scanner(System.in);
 		//Read in values
 		System.out.print("guess heads or tales:");
 		guess = input.nextLine();
-      ran = Math.random() < 0.5;
 if (guess.compareToIgnoreCase("heads")==0){
    System.out.print((ran=true) ? "The coin was heads, you were right!"  :  "The coin was tails, you were wrong D:");
 }
