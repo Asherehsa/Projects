@@ -30,11 +30,19 @@ public class Exercise03_17  {
       case "paper": 
 	  if (rand == 0)
 	  System.out.println( guess +" vs rock: you win!");
+     	  else if (rand == 1)
+	  System.out.println( guess +" vs paper: a tie!");
+	  else
+	  System.out.println( guess +" vs scissors: you loose!");
       break;
-//      case "scissors": ;
-//      break;
+      case "scissors": 
+	  if (rand == 0)
+	  System.out.println( guess +" vs rock: you loose!");
+     	  else if (rand == 1)
+	  System.out.println( guess +" vs paper: you win!");
+	  else
+	  System.out.println( guess +" vs scissors: it's a tie!");
+      break;
    }
-	//Parse lottery number into individual digits
-	ArrayList ln = new ArrayList(); 
 	}
 }
