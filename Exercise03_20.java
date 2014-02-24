@@ -26,6 +26,7 @@ public class Exercise03_20  {
       }
       else
       System.out.print("Make sure wind speed is greater than 2 mph and the tempature is over -58 but under 41F");
+      System.exit(1);
 		//Display Results
 
 }}
