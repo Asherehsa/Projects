@@ -1,14 +1,16 @@
 todo
 
 2/19
-3.24
-3.20
-3.17
+# 3.24
 
-2/23
-3.33
+2/27
+4.1
+   Table 4.1 Page 120 to degrees
+4.2
+4.6
+4.7
+one askes to create points of a pentagon. Imagine it curcumscribed in a circle.
 
 
 by 3/2
 Study for Quiz 1 (Ch. 1-3)
-

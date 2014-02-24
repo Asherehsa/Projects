@@ -43,6 +43,8 @@ public class Exercise03_17  {
 	  else
 	  System.out.println( guess +" vs scissors: it's a tie!");
       break;
+     default: System.out.println("please enter rock paper or scissors");
+     System.exit(1);
    }
 	}
 }
