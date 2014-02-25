@@ -1,0 +1,18 @@
+todo
+
+2/19
+# 3.24
+
+2/27
+4.1
+   Table 4.1 Page 120 to degrees
+   one askes to create points of a pentagon. Imagine it curcumscribed in a circle.
+4.2
+4.6
+4.7
+   just compute the x,y coordinates 
+
+
+
+by 3/2
+Study for Quiz 1 (Ch. 1-3)
