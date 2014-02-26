@@ -7,17 +7,67 @@ import java.util.Scanner;
 public class Exercise03_24  {
 	/**MainMethod**/
 	public static void main (String[] args) {
-      final int numcards = 52;
+   String rank = "";
+   String suit = "";
       //Pick a card
-  int number = (int) (Math.random()*numcards);
-  System.out.print("The card you picked is ");
-  if (number % 13 = 0)
-   system.out.print("Ace")
-   
-   else if (number %13 ==11)
-	system.out.print("queen of")
-  else if (number %13 ==12)
-	system.out.print("king of")
-	else
-	system.our.pring((number%13) of )
+  int four = (int) (Math.random()*5);
+  int numb  = (int) (Math.random()*14);
+//num to string
+        switch (four) {
+      case 1:
+          suit = "Clubs";
+      break;
+      case 2:
+          suit = "Diamonds";
+      break;
+      case 3:
+          suit = "Hearts";
+          break;
+      case 4:
+          suit = "Spades";
+          break;
+  }
+   switch (numb) {
+       case 1:
+           rank = "Ace";
+           break;
+       case 2:
+           rank = "Two";
+           break;
+       case 3:
+           rank = "Three";
+           break;
+       case 4:
+           rank = "Four";
+           break;
+       case 5:
+           rank = "Five";
+           break;
+       case 6:
+           rank = "Six";
+           break;
+       case 7:
+           rank = "Seven";
+           break;
+       case 8:
+           rank = "Eight";
+           break;
+       case 9:
+           rank = "Nine";
+           break;
+       case 10:
+           rank = "Ten";
+           break;
+       case 11:
+           rank = "Jack";
+           break;
+       case 12:
+           rank = "Queen";
+           break;
+       case 13:
+           rank = "King";
+           break;
+   }
+   //print!
+   System.out.printf("The card you picked is %s of %s", rank, suit);
 }}

@@ -21,3 +21,38 @@ else
 	else
 	d=b;
 
+
+#ASCII
+48 hex is 72 decimal
+4 * 16 + 8 = 72
+
+in unicode they are 16 bit
+0048
+
+look up how many bites make up an int
+
+Strings are really objects
+S3 = S1 + S2; == S3=S1.concat(S2); //this is a instance method
+
+Poor beta becomes and orphan, and there is a garbage colector running in the background that gobbles up all the orphans
+
+Example:
+        System.out.println(The decimal value for hex number " + hex + " is " + hexToDecimal(hex.toUpperCase()));
+        }
+public static in hexToDecimal(String hex)
+        {
+        int decimalValue = 0;
+        for (int i = 0; i < hex.length(); i++)
+        {
+        char hexChar = hex.charAt(i);
+        decimalValue = decimalValue * 16 + hexToDecimal(hexChar);
+        }
+        return decimalValue;
+        }
+public static int hexCharToDecimal(char ch) {
+        if (ch >= 'A' && ch <= 'F')
+            return 10 + ch - 'A';
+        else
+            return ch -'0';
+			}
+	
