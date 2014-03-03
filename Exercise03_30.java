@@ -2,7 +2,7 @@
 // Asher Silberman
 // COMP 110/L 1100-1345
 /* The program I am submitting is my own work.   I may have had some help learning how to do  it, but ultimately, I wrote and tested this entire exercise myself. */
-/* Rice Shopping */
+/* Display le hour */
 
 import java.util.Scanner;
 
@@ -11,26 +11,25 @@ public class Exercise03_30 {
 	{
 
 	//get user input (cost and weight of rice)
-	System.out.println("Enter weight and price for package 1: ");
+	System.out.println("Enter your GMT ofset (ei: -5): ");
    Scanner input = new Scanner(System.in);
-   double w1 = input.nextDouble();
-   double p1 = input.nextDouble();
-   
-	//Ask user to enter a guess
-	System.out.println("Enter weight and price for package 2: ");
-   double w2 = input.nextDouble();
-   double p2 = input.nextDouble();
-	//maths
-p1 = p1/w1;
-p2 = p2/w2;
-   //print result
-if (p1<p2)
-	System.out.println("Package 1 has a better price");
-else if (p1>p2)
-   System.out.println("Package 2 has a better price");
-else if (p1==p2)
-   System.out.println("Both packages have the same price");
-else
-   System.out.println("What did you do?!");
+   int gmt = input.nextInt();
+   long mills=System.currentTimeMillis();
+   long totalsec=mills/1000;
+   int sec=(int)(totalsec%60);
+   long totalMin=totalsec/60;
+   int min = (int) (totalMin%60);
+   long totalHour = totalMin/60;
+   int hour = (int) totalHour;
+   hour = (hour +gmt)%24;
+   String isPM = "AM";
+        System.out.println("The current time is: "+ hour + ":" + min + ":" + sec );
+        System.out.println(hour);
+   if (hour > 12) {
+       isPM = "PM";
+       hour = hour - 12;
+   }
+        //print result
+	System.out.println("The current time is: "+ hour + ":" + min + ":" + sec + " " + isPM );
 	}
 }
