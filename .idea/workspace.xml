@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89f91b10-e2d6-4cc0-88cc-4ee02ab3513d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercise03_24.java" afterPath="$PROJECT_DIR$/Exercise03_24.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notes.java" afterPath="$PROJECT_DIR$/notes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercise03_33.java" afterPath="$PROJECT_DIR$/Exercise03_33.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Projects.iws" />
@@ -68,10 +67,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Exercise03_24.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Exercise03_24.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercise03_24.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="12" selection-start="656" selection-end="656" vertical-scroll-proportion="-0.53809524" vertical-offset="628" max-vertical-offset="1258">
+            <state line="21" column="12" selection-start="656" selection-end="656" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1258">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercise03_26.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise03_26.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="26" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="459">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercise03_28.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise03_28.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="23" selection-start="1666" selection-end="1666" vertical-scroll-proportion="0.0" vertical-offset="84" max-vertical-offset="799">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercise03_29.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise03_29.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="14" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="867">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercise03_33.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise03_33.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="31" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0" vertical-offset="67" max-vertical-offset="697">
+              <folding>
+                <element signature="e#0#1065#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercise03_30.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercise03_30.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="343" selection-end="1041" vertical-scroll-proportion="0.18888889" vertical-offset="0" max-vertical-offset="630">
               <folding />
             </state>
           </provider>
@@ -93,6 +142,11 @@
         <option value="$PROJECT_DIR$/Exercise04_02.java" />
         <option value="$PROJECT_DIR$/Exercise03_24.java" />
         <option value="$PROJECT_DIR$/notes.java" />
+        <option value="$PROJECT_DIR$/Exercise03_26.java" />
+        <option value="$PROJECT_DIR$/Exercise03_28.java" />
+        <option value="$PROJECT_DIR$/Exercise03_29.java" />
+        <option value="$PROJECT_DIR$/Exercise03_33.java" />
+        <option value="$PROJECT_DIR$/Exercise03_30.java" />
       </list>
     </option>
   </component>
@@ -148,8 +202,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -161,6 +215,11 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Exercise04_02">
     <configuration default="false" name="Exercise04_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -213,6 +272,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -238,19 +310,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -347,14 +406,14 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2583732" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.261563" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32986626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -378,6 +437,13 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Exercise03_24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="12" selection-start="656" selection-end="656" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1258">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercise03_24.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="12" selection-start="656" selection-end="656" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1258">
@@ -406,13 +472,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise03_33.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="5" selection-start="1051" selection-end="1051" vertical-scroll-proportion="0.78753996" vertical-offset="0" max-vertical-offset="626">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercise04_02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="33" selection-start="618" selection-end="618" vertical-scroll-proportion="0.055910543" vertical-offset="186" max-vertical-offset="833">
@@ -429,7 +488,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercise03_24.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="12" selection-start="656" selection-end="656" vertical-scroll-proportion="-0.53809524" vertical-offset="628" max-vertical-offset="1258">
+        <state line="21" column="12" selection-start="656" selection-end="656" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1258">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise03_26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="26" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise03_28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="23" selection-start="1666" selection-end="1666" vertical-scroll-proportion="0.0" vertical-offset="84" max-vertical-offset="799">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise03_29.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="14" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="867">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise03_33.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="31" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0" vertical-offset="67" max-vertical-offset="697">
+          <folding>
+            <element signature="e#0#1065#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise03_30.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="343" selection-end="1041" vertical-scroll-proportion="0.18888889" vertical-offset="0" max-vertical-offset="630">
           <folding />
         </state>
       </provider>

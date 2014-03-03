@@ -4,9 +4,9 @@
 /* The program I am submitting is my own work.   I may have had some help learning how to do  it, but ultimately, I wrote and tested this entire exercise myself. */
 /* Rice Shopping */
 
-import java.util.*;
-import java.util.Arrays;
-public class Exercise03_33  {
+import java.util.Scanner;
+
+public class Exercise03_30 {
 	public static void main(String [] args)
 	{
 
