@@ -5,12 +5,12 @@
 /* Display le hour */
 
 import java.util.Scanner;
-
+   
 public class Exercise03_30 {
 	public static void main(String [] args)
 	{
 
-	//get user input (cost and weight of rice)
+	//get user input
 	System.out.println("Enter your GMT ofset (ei: -5): ");
    Scanner input = new Scanner(System.in);
    int gmt = input.nextInt();
