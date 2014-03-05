@@ -4,6 +4,7 @@
     <list default="true" id="89f91b10-e2d6-4cc0-88cc-4ee02ab3513d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercise04_20.java" afterPath="$PROJECT_DIR$/Exercise04_20.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercise04_24.java" afterPath="$PROJECT_DIR$/Exercise04_24.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercise04_26.java" afterPath="$PROJECT_DIR$/Exercise04_26.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/todo.txt" afterPath="$PROJECT_DIR$/todo.txt" />
     </list>
     <ignored path="Projects.iws" />
@@ -77,15 +78,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise03_17.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise03_17.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="5" selection-start="1508" selection-end="1523" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="884">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Exercise03_20.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercise03_20.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -133,14 +125,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise04_24.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Exercise04_24.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercise04_24.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="6" selection-start="807" selection-end="807" vertical-scroll-proportion="0.69786537" vertical-offset="0" max-vertical-offset="609">
+            <state line="12" column="27" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#637#645#0" expanded="true" />
+                <element signature="e#612#620#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercise04_26.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercise04_26.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="46" selection-start="1543" selection-end="1543" vertical-scroll-proportion="1.1724138" vertical-offset="0" max-vertical-offset="986">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -184,13 +185,13 @@
         <option value="$PROJECT_DIR$/Exercise03_29.java" />
         <option value="$PROJECT_DIR$/Exercise03_33.java" />
         <option value="$PROJECT_DIR$/Ex_Switch_04_18.java" />
-        <option value="$PROJECT_DIR$/Exercise04_26.java" />
         <option value="$PROJECT_DIR$/Exercise04_17.java" />
         <option value="$PROJECT_DIR$/Exercise03_30.java" />
         <option value="$PROJECT_DIR$/EdgeDetection.java" />
         <option value="$PROJECT_DIR$/Exercise04_18.java" />
         <option value="$PROJECT_DIR$/Exercise04_20.java" />
         <option value="$PROJECT_DIR$/Exercise04_24.java" />
+        <option value="$PROJECT_DIR$/Exercise04_26.java" />
       </list>
     </option>
   </component>
@@ -732,13 +733,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise04_26.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="40" selection-end="40" vertical-scroll-proportion="0.055829227" vertical-offset="0" max-vertical-offset="609">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercise03_15.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="13" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="867">
@@ -806,11 +800,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercise04_24.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="6" selection-start="807" selection-end="807" vertical-scroll-proportion="0.69786537" vertical-offset="0" max-vertical-offset="609">
+        <state line="12" column="27" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#637#645#0" expanded="true" />
+            <element signature="e#612#620#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise04_26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="46" selection-start="1543" selection-end="1543" vertical-scroll-proportion="1.1724138" vertical-offset="0" max-vertical-offset="986">
+          <folding />
         </state>
       </provider>
     </entry>

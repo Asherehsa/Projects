@@ -1,10 +1,10 @@
 todo
 
 3/5
-4 24
 4 26
 3/9
 4 23
 4 21
 4 19
 4 17
+> If the user enters a month with the first letter in lower case, your program must display an error message containing the words "IS NOT" somewhere in the statement in order for LiveLab to be grade is being CORRECT. An example might be "jan IS NOT a valid month" if the user typed in "jan" instead of "Jan".
