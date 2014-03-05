@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="89f91b10-e2d6-4cc0-88cc-4ee02ab3513d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercise04_20.java" afterPath="$PROJECT_DIR$/Exercise04_20.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercise04_24.java" afterPath="$PROJECT_DIR$/Exercise04_24.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/todo.txt" afterPath="$PROJECT_DIR$/todo.txt" />
     </list>
     <ignored path="Projects.iws" />
@@ -124,7 +125,7 @@
       <file leaf-file-name="Exercise04_20.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercise04_20.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="25" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+            <state line="18" column="2" selection-start="304" selection-end="638" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
               <folding>
                 <element signature="e#0#638#0" expanded="true" />
               </folding>
@@ -135,8 +136,11 @@
       <file leaf-file-name="Exercise04_24.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Exercise04_24.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="26" selection-start="65" selection-end="65" vertical-scroll-proportion="0.08374384" vertical-offset="0" max-vertical-offset="609">
-              <folding />
+            <state line="25" column="6" selection-start="807" selection-end="807" vertical-scroll-proportion="0.69786537" vertical-offset="0" max-vertical-offset="609">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#637#645#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -186,6 +190,7 @@
         <option value="$PROJECT_DIR$/EdgeDetection.java" />
         <option value="$PROJECT_DIR$/Exercise04_18.java" />
         <option value="$PROJECT_DIR$/Exercise04_20.java" />
+        <option value="$PROJECT_DIR$/Exercise04_24.java" />
       </list>
     </option>
   </component>
@@ -428,7 +433,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="62" y="-8" width="1312" height="784" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -792,7 +797,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercise04_20.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="25" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+        <state line="18" column="2" selection-start="304" selection-end="638" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
           <folding>
             <element signature="e#0#638#0" expanded="true" />
           </folding>
@@ -801,8 +806,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercise04_24.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="26" selection-start="65" selection-end="65" vertical-scroll-proportion="0.08374384" vertical-offset="0" max-vertical-offset="609">
-          <folding />
+        <state line="25" column="6" selection-start="807" selection-end="807" vertical-scroll-proportion="0.69786537" vertical-offset="0" max-vertical-offset="609">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#637#645#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
