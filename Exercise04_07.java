@@ -2,7 +2,7 @@
 // Asher Silberman
 // COMP 110/L 1100-1345
 /* The program I am submitting is my own work.   I may have had some help learning how to do  it, but ultimately, I wrote and tested this entire exercise myself. */
-/* Random card from a deck*/
+/* Corner point coordinates */
 import java.util.Scanner;
 public class Exercise04_07  {
 	/**MainMethod**/
