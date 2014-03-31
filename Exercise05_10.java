@@ -1,6 +1,6 @@
 /**
  * Created by Asher on 3/16/14.
- * Display numbers 100 to 1000, ten per line, that are divisable by 5 and 6
+ * Display numbers 100 to 1000, ten per line, that are divisible by 5 and 6
  */
 public class Exercise05_10 {
     /**MainMethod**/

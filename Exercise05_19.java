@@ -1,4 +1,7 @@
-
+/*
+ * Created by Asher on 3/17/14.
+ * Numbers in a Pyramid
+ */
 
 public class Exercise05_19 {
     public static void main(String[] args) {

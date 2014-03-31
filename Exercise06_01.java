@@ -1,5 +1,5 @@
 /**
- * Comapre sums
+ * Compare sums
  */
 public class Exercise06_01 {
     public static int sum(int i1, int i2){
