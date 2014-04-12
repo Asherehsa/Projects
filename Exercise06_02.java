@@ -21,3 +21,12 @@ public class Exercise06_02 {
 
     }
 }
+/*
+int temp = (int)Math.abs(n);
+int sum = 0;
+while (temp !=0){
+        int remainder = temp % 10;
+        sum += remainder;
+
+        }
+        */
