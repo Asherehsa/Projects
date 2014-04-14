@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89f91b10-e2d6-4cc0-88cc-4ee02ab3513d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PQuestionII_3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PQuizQuestionII_1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PQuizQuestionII_2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestLinearSearch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercise06_02.java" afterPath="$PROJECT_DIR$/Exercise06_02.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AnalyzeNumbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ArrayShuffle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise07_03.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Projects.iws" />
@@ -71,15 +69,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="todo.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/todo.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="3" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="289">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Exercise06_39.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercise06_39.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -110,7 +99,7 @@
       <file leaf-file-name="TestLinearSearch.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestLinearSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="45" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+            <state line="8" column="45" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="289">
               <folding />
             </state>
           </provider>
@@ -119,10 +108,8 @@
       <file leaf-file-name="PQuizQuestionII_1.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PQuizQuestionII_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="1" selection-start="649" selection-end="649" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="16" column="1" selection-start="649" selection-end="649" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -130,16 +117,16 @@
       <file leaf-file-name="PQuizQuestionII_2.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PQuizQuestionII_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="1" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+            <state line="16" column="1" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PQuestionII_3.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="PQuestionII_3.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PQuestionII_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="1" selection-start="670" selection-end="670" vertical-scroll-proportion="0.64415157" vertical-offset="0" max-vertical-offset="607">
+            <state line="23" column="1" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -147,19 +134,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise06_09.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise06_09.java">
+      <file leaf-file-name="Exercise07_03.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercise07_03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="5" selection-start="669" selection-end="669" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="544">
+            <state line="6" column="43" selection-start="168" selection-end="168" vertical-scroll-proportion="0.16915423" vertical-offset="0" max-vertical-offset="603">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayShuffle.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArrayShuffle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="25" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise06_01.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise06_01.java">
+      <file leaf-file-name="AnalyzeNumbers.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AnalyzeNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357">
+            <state line="23" column="5" selection-start="832" selection-end="832" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
               <folding />
             </state>
           </provider>
@@ -217,6 +215,9 @@
         <option value="$PROJECT_DIR$/PQuizQuestionII_1.java" />
         <option value="$PROJECT_DIR$/PQuizQuestionII_2.java" />
         <option value="$PROJECT_DIR$/PQuestionII_3.java" />
+        <option value="$PROJECT_DIR$/ArrayShuffle.java" />
+        <option value="$PROJECT_DIR$/AnalyzeNumbers.java" />
+        <option value="$PROJECT_DIR$/Exercise07_03.java" />
       </list>
     </option>
   </component>
@@ -224,7 +225,7 @@
     <option name="x" value="59" />
     <option name="y" value="-8" />
     <option name="width" value="1315" />
-    <option name="height" value="784" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -252,6 +253,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -286,8 +289,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -357,19 +358,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -395,6 +383,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -473,8 +474,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="-8" width="1315" height="784" extended-state="0" />
-    <editor active="false" />
+    <frame x="59" y="-8" width="1315" height="780" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -497,8 +498,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -517,13 +518,13 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2647528" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -547,21 +548,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercise04_02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="33" selection-start="618" selection-end="618" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="833" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise04_02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="33" selection-start="618" selection-end="618" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ex_Switch_04_18.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="4" selection-start="538" selection-end="538" vertical-scroll-proportion="0.44663382" vertical-offset="0" max-vertical-offset="609" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercise02_02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="13" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="833" />
@@ -820,9 +806,7 @@
     <entry file="file://$PROJECT_DIR$/PQuizQuestionII_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="1" selection-start="649" selection-end="649" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -835,7 +819,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PQuestionII_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="1" selection-start="670" selection-end="670" vertical-scroll-proportion="0.64415157" vertical-offset="0" max-vertical-offset="607">
+        <state line="23" column="1" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayShuffle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="25" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnalyzeNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="5" selection-start="832" selection-end="832" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise07_03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="43" selection-start="168" selection-end="168" vertical-scroll-proportion="0.16915423" vertical-offset="0" max-vertical-offset="603">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
