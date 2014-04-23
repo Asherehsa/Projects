@@ -4,6 +4,7 @@
     <list default="true" id="89f91b10-e2d6-4cc0-88cc-4ee02ab3513d" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise07_25.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise07_31.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise08_01.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Projects.iws" />
@@ -106,13 +107,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise07_25.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Exercise07_25.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercise07_25.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="128" selection-end="141" vertical-scroll-proportion="0.21364452" vertical-offset="0" max-vertical-offset="952">
+            <state line="7" column="13" selection-start="128" selection-end="141" vertical-scroll-proportion="-2.38" vertical-offset="0" max-vertical-offset="952">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercise08_01.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercise08_01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="5" selection-start="167" selection-end="167" vertical-scroll-proportion="0.16803955" vertical-offset="0" max-vertical-offset="607">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -129,7 +139,7 @@
       <file leaf-file-name="Exercise07_31.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercise07_31.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="9" selection-start="1208" selection-end="1208" vertical-scroll-proportion="-12.538462" vertical-offset="456" max-vertical-offset="1037">
+            <state line="8" column="0" selection-start="193" selection-end="285" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="1037">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -219,6 +229,7 @@
         <option value="$PROJECT_DIR$/Exercise03_01.java" />
         <option value="$PROJECT_DIR$/Exercise07_31.java" />
         <option value="$PROJECT_DIR$/Exercise07_25.java" />
+        <option value="$PROJECT_DIR$/Exercise08_01.java" />
       </list>
     </option>
   </component>
@@ -498,7 +509,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="-8" width="1315" height="784" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -573,11 +584,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/EdgeDetection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="5" selection-start="1018" selection-end="1018" vertical-scroll-proportion="0.7561779" vertical-offset="0" max-vertical-offset="607" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercise04_07.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="13" selection-start="290" selection-end="290" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493" />
@@ -874,9 +880,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise07_25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="128" selection-end="141" vertical-scroll-proportion="-2.38" vertical-offset="0" max-vertical-offset="952">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercise07_31.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="9" selection-start="1208" selection-end="1208" vertical-scroll-proportion="-12.538462" vertical-offset="456" max-vertical-offset="1037">
+        <state line="8" column="0" selection-start="193" selection-end="285" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="1037">
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
@@ -884,12 +899,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise07_25.java">
+    <entry file="file://$PROJECT_DIR$/Exercise08_01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="128" selection-end="141" vertical-scroll-proportion="0.21364452" vertical-offset="0" max-vertical-offset="952">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state line="6" column="5" selection-start="167" selection-end="167" vertical-scroll-proportion="0.16803955" vertical-offset="0" max-vertical-offset="607">
+          <folding />
         </state>
       </provider>
     </entry>
