@@ -12,9 +12,9 @@ public class Exercise08_01 {
       double[][] m;
       m = new double[3][4];
       m = arrayInput(m);
-      System.out.println("Sum of the elements at column 0 is "sumColumn(m,0));
-      System.out.println("Sum of the elements at column 1 is "sumColumn(m,1));
-      System.out.println("Sum of the elements at column 2 is "sumColumn(m,2));
+      System.out.println("Sum of the elements at column 0 is " + sumColumn(m,0));
+      System.out.println("Sum of the elements at column 1 is " + sumColumn(m,1));
+      System.out.println("Sum of the elements at column 2 is " + sumColumn(m,2));
     }
     public static double sumColumn(double[][] m, int columnIndex){
         double sum = 0;
