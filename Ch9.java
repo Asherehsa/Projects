@@ -108,7 +108,7 @@ public class Ch9 {
      public int getID(){
        return id;
      }
-     public static int getNUmberOf
+     public static int getNUmberOf;
     }
     
 public class MountainBike extends Bicycle{

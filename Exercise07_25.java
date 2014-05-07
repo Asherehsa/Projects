@@ -25,7 +25,7 @@ public class Exercise07_25 {
 
 
 
-        */
+
         //Declare Variables
         double dis, nroot, proot;
         //calculate the discriminant
